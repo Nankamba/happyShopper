@@ -75,17 +75,3 @@ ul li:hover {
     cursor: pointer;
 }
 
-.wrapper{
-    position: relative; 
-    min-height: 2.5px; 
-    padding: 0; 
-}
-
-footer{
-  bottom: 0; 
-  height: 5px; 
-  font-size: 10px; 
-  width: 100%; 
-  color: black; 
-  position: absolute; 
-}
